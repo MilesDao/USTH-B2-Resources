@@ -1,4 +1,0 @@
-Name: Stone Giant
-Level: 1
-Health: 780
-Inventory: ['Club', 'Rock Armor', 'Health Potion']
